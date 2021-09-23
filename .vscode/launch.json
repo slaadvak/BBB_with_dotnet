@@ -28,7 +28,7 @@
                     "pipeArgs": [
                         "-ssh",
                         "-pw",
-                        "palpatine",
+                        "YOUR_PASSWORD",
                         "debian@192.168.7.2"
                     ],
                     "debuggerPath": "~/vsdbg/vsdbg"
